@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color1">#FADEF8</color>
+    <color name="backgroud_color">#98BEFD</color>
+    <color name="transparent">#00000000</color>
+    <color name="background">#FFF</color>
+    <color name="arrow1">#8EB4E3</color>
+    <color name="arrow">#fff</color>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">məzənnə.az</string>
+    <string name="hello_world">Hələ hazır deyil</string>
+    <string name="action_settings">Settings</string>
+    <string name="valuta">Valyuta</string>
+    <string name="article">Məqalələr</string>
+    <string name="trade">əmtəə</string>
+    <string name="petrol">Benzin</string>
+    <string name="mezenne">Məzənnə</string>
+    <string name="konvertor">Konvertor</string>
+    <string name="purchase">Alış</string>
+    <string name="sale">Satış</string>
+    <string name="growth">Artım</string>
+    <string name="usd">USD</string>
+    <string name="azn">AZN</string>
+    <string name="date">29.03.2015</string>
+    <string name="amb_azn">AMB (AZN)</string>
+    <string name="qizil">Qızıl</string>
+    <string name="eur">EUR</string>
+    <string name="yanacaq">Sərf etdiyiniz yanacaq (litr)</string>
+    <string name="mesafe">Getdiyiniz məsafə (km)</string>
+    <string name="km_litr">1km /litr</string>
+    <string name="km_azn">1km /azn</string>
+    <string name="qizili_qiymeti">Dünya qızıl qiymətləri</string>
+    <string name="qiymet_ceviricisi">Qızıl qiymət çeviricisi</string>
+    <string name="neft">Neft</string>
+    <string name="neftin_qiymeti">Dünya neft qiymətləri</string>
+    <string name="cost">1.0428</string>
+
+    <string-array name="petrol_arrays">
+        <item>AL-95</item>
+        <item>AL-92</item>
+        <item>AL-80</item>
+        <item>Dizel</item>
+    </string-array>
+
+</resources>
